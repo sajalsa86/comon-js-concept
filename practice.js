@@ -85,3 +85,6 @@ performArithmeticOperation(10, 4, 'subtract'); // Result of 10 subtract 4 is: 6
 performArithmeticOperation(7, 2, 'multiply'); // Result of 7 multiply 2 is: 14
 performArithmeticOperation(8, 2, 'divide'); // Error: Division by zero
 performArithmeticOperation(5, 3, 'power'); // Error: Invalid operation
+
+
+
